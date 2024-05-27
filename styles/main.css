@@ -1,0 +1,28 @@
+* {
+  font-size: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #fff;
+  font: 14px;
+  padding: 0;
+  margin: 0;
+
+  box-sizing: border-box;
+}
+#nav {
+  background-color: #1a1a1a;
+  height: 50px;
+  border-bottom: 1px solid #000;
+
+}
+#room__container{
+    display: grid;
+    grid-template-columns: 200px 800px;
+
+
+}
+#participants__container{
+    border-right: #797979;
+}
